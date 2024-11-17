@@ -1,3 +1,8 @@
+# About
+
+The project is an interactive and scalable data visualization using D3.js, HTML, and CSS to depict transportation trends.
+Transportation data from 1975 to 2020 was cleaned and manipulated to gain insights on the fatalities in various modes of transportation.
+
 # Deploying the Code
 
 The code can be deployed by using the following command in the *project's root directory*. For proper functioning, please ensure that the server is created from the project folder, and not from an upper level directory.

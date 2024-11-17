@@ -1,7 +1,7 @@
 # About
 
 The project is an interactive and scalable data visualization using D3.js, HTML, and CSS to depict transportation trends.
-Transportation data from 1975 to 2020 was cleaned and manipulated to gain insights on the fatalities in various modes of transportation.
+Transportation data from 1975 to 2020 was cleaned and manipulated to gain insights on fatalities caused by various modes of transportation.
 
 # Deploying the Code
 
